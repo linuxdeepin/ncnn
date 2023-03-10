@@ -1,3 +1,10 @@
+ncnn (1.0.20230223-deepin1) unstable; urgency=medium
+
+  * Sync to Upstream
+  * Remove patch of avoid LoongArch connot compile
+
+ -- WangZhengYang <wangzhengyang@uniontech.com>  Wed, 9 Mar 2023 17:06:20 +0800
+
 ncnn (1.0.20221128-deepin1) unstable; urgency=medium
 
   * Sync to Upstream
